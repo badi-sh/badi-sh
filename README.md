@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **5G Intergrated IIoT Testbed**
 
-- 🌱 I’m currently learning **OT/SCADA Security & Protocols, PLC Programming**
+- 🌱 I’m currently learning **OT/SCADA Security & Protocols**
 
 - 💬 Ask me about **Linux, OT Security, AI/ML & LLM, 5G**
 
